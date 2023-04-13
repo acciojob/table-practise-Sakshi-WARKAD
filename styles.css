@@ -4,6 +4,7 @@ table{
     border:1px solid rgb(0, 0, 0);
 	font-size:20px;
 }
-h1{
-/* 	text-align: center; */
+#Caption{
+     font-size:30px;
+	 color:black;
 }
